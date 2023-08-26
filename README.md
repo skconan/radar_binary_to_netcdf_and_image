@@ -15,4 +15,6 @@
 
     python src/main.py -i <input_binary_files_dir> -o <output_dir>
 
-    Example python src/main.py -i C:\radar\binary_files -o C:\radar\images
+Example 
+    
+    python src/main.py -i C:\radar\binary_files -o C:\radar\images

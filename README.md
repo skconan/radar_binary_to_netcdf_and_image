@@ -9,7 +9,7 @@
       - Select the latest version `v3.1.2/` and download `wgrib2.exe` into `bin` directory. 
 2. Python Enviroment
 
-   - pip install netCDF4 matplotlib pillow
+   - pip install netCDF4 matplotlib opencv-python
 
 ## Usage
 
